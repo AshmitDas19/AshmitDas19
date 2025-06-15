@@ -10,7 +10,7 @@
 <p align="left">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/AshmitDas19/AshmitDas19/blob/master/assets/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/2c2e6d7b953cd04805442ff9c8d68dd3c2744975/assets/python.svg" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
