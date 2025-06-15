@@ -41,5 +41,5 @@
 
 <h2 align="left">Buy me a coffee 🍵</h2>
 <p align="center">
-<a href="https://www.buymeacoffee.com/ashmitd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/ashmitd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 170px !important;" ></a>
 </p>
