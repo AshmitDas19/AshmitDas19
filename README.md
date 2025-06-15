@@ -11,16 +11,15 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/java.svg" alt="java"  width="120" height="50"><img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/ai.svg" alt="AI" width="90" height="50">
-<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/powershell.svg" alt="powershell" width="120" height="50">
-<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/html.svg" alt="html" width="120" height="50">
-<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/css3.svg" alt="css" width="120" height="50">
-<img src="https://github.com/AshmitDas19/AshmitDas19/blob/df66827a9a08b15b2605595f2825053d765839a9/assets/visualstudio.svg" alt="visualstudio" width="120" height="50">
-<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/pc.svg" alt="pc" width="100" height="50">
-<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/js.svg" alt="js" width="120" height="50">
-<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/go.svg" alt="golang" width="120" height="50">
-<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/jetbrains_intellij.svg" alt="intellij" width="120" height="50">
-<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/rust.svg" alt="rust" width="120" height="50">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/java.svg" alt="java"  width="120" height="50">
+![AI](https://img.shields.io/badge/ChatBot-0066FF.svg?style=for-the-badge&logo=ChatBot&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Golang](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
+![Intellij](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
