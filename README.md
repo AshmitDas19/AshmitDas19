@@ -11,17 +11,19 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/AshmitDas19/AshmitDas19/blob/2c2e6d7b953cd04805442ff9c8d68dd3c2744975/assets/python.svg" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/java.svg" alt="java"  width="100" hight="50">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/ai.svg" alt="AI" width="90" hight="50">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/powershell.svg" alt="bash" width="100" hight="50">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/html.svg" alt="datascience" width="180" hight="50">
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/css3.svg" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/visualstudio_code.svg" alt="visualstudio_code" width="240" hight="50">
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/pc.svg" alt="pc" width="100" hight="50">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/js.svg" alt="edge" width="100" hight="50">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/go.svg" alt="playstation" width="150" hight="50">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/jetbrains_intellij.svg" alt="playstation" width="150" hight="50">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/rust.svg" alt="playstation" width="150" hight="50">
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
