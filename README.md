@@ -34,3 +34,5 @@
 - :zap: Fun fact: I love learning and exploring new things<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
+
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)
