@@ -6,10 +6,9 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">:hammer_and_wrench: Languages and Tools I Use:</h2>
 <p align="left">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
