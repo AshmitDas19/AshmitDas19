@@ -38,6 +38,7 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)
+<a href="https://instagram.com/coder.ashmit">![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 <h2 align="left">Buy me a coffee 🍵</h2>
 <p align="center">
