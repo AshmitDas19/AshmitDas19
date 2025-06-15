@@ -38,3 +38,8 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)
+
+<h2 align="left">Buy me a coffee 🍵</h2>
+<p align="center">
+<a href="https://www.buymeacoffee.com/ashmitd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
