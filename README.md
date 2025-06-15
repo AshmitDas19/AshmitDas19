@@ -16,7 +16,7 @@
 <img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/powershell.svg" alt="powershell" width="120" height="50">
 <img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/html.svg" alt="html" width="120" height="50">
 <img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/css3.svg" alt="css" width="120" height="50">
-<img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/visualstudio_code.svg" alt="vscode" width="120" height="80">
+<img src="https://github.com/AshmitDas19/AshmitDas19/blob/df66827a9a08b15b2605595f2825053d765839a9/assets/visualstudio.svg" alt="visualstudio" width="120" height="50">
 <img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/pc.svg" alt="pc" width="100" height="50">
 <img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/js.svg" alt="js" width="120" height="50">
 <img src="https://github.com/AshmitDas19/AshmitDas19/blob/57e4b5e6d57b1076579f961c4f48339a3d7d2fb1/assets/go.svg" alt="golang" width="120" height="50">
